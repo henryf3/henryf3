@@ -13,14 +13,20 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henryf3&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
   <div style="display: inline_block"><br>
+   <img align="center" alt="henry-penguin" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+   <img align="center" alt="henry-ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="henry-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="henry-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="henry-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="henry-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="henry-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="henry-pg" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="henry-aws" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/aws-icon.svg">
+  <img align="center" alt="henry-macosx" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/apple.svg">
+  <img align="center" alt="henry-java" height="30" width="40" src="[https://github.com/henryf3/henryf3/blob/main/apple.svg">
   <img align="right"  height="148" width="148" src="https://media.giphy.com/media/6zI0KUEik37Jm/giphy.gif">    
 </div>
   
+ 
 ##
   
  <div> 
