@@ -22,7 +22,6 @@
   <img align="center" alt="henry-aws" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/aws-icon.svg">
   <img align="center" alt="henry-firebolt" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/firebolt.svg">
   <img align="center" alt="henry-java" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/java.svg">
-  <img align="right"  height="148" width="148" src="https://media.giphy.com/media/6zI0KUEik37Jm/giphy.gif">
   <img align="center" alt="henry-metabase" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/metabase-icon.svg">
  <img align="center" alt="henry-vscode" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/vscode.svg">
  <img align="center" alt="henry-go" height="30" width="40" src="https://github.com/henryf3/henryf3/blob/main/go.svg">
